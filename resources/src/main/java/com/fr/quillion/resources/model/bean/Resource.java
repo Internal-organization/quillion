@@ -10,7 +10,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * Created by Les Choupinets on 13/11/2016.
+ * Created by Nixial on 13/11/2016.
  */
 @Setter
 @Getter

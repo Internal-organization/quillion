@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by Les Choupinets on 01/12/2016.
+ * Created by Nixial on 01/12/2016.
  */
 @RestController
 public class UserController {

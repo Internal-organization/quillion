@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.querydsl.QueryDslPredicateExecutor;
 
 /**
- * Created by Les Choupinets on 13/11/2016.
+ * Created by Nixial on 13/11/2016.
  */
 public interface UserRepository extends JpaRepository<User, Long>, QueryDslPredicateExecutor<User> {
 }

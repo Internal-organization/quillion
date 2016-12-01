@@ -8,7 +8,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Created by Les Choupinets on 13/11/2016.
+ * Created by Nixial on 13/11/2016.
  */
 @Setter
 @Getter
